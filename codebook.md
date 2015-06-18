@@ -1,5 +1,4 @@
-"x"
-"1" "Subject - An identifier(1:30) of the subject who carried out the experiment "
+"1" "Subject - An identifier(1:30) of the subject who carried out the experiment"
 "2" "Activity - Activities on which Measurements were made - (WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING) "
 "3" "tBodyAcc.mean.X - Average of time-signals for Body Accelerometer MEAN values on X axes (in g i.e. mtr/sec^2)"
 "4" "tBodyAcc.mean.Y - Average of time-signals for Body Accelerometer MEAN values on Y axes (in g i.e. mtr/sec^2)"
